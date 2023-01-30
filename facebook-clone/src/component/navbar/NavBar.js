@@ -44,12 +44,11 @@ class NavBar extends Component {
                         </div>
                     </Grid>
                     <Grid item xs = {3}>
-                        <div className='navbar_rightbar'>
-                            <div classname="navbar_righttab">
-                                <Avatar className="navbar_rightimg" src=""/>
-                                <div className='navbar_profilename'>Zakir</div>
+                        <div className='navbar_right'>
+                            <div className="navbar_righttab">
+                                <Avatar className="navbar_rightimg" src="https://scontent-pnq1-1.xx.fbcdn.net/v/t31.18172-1/16299632_1265392430180578_8956618037203765660_o.jpg?stp=cp0_dst-jpg_p40x40&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=7206a8&amp;_nc_ohc=XyjfLOpDoyEAX9m-w0P&amp;_nc_ht=scontent-pnq1-1.xx&amp;oh=00_AfAn-9kR7HhYcCXxGt-qIkiGeBNmUg4mXMy1i3ukZfyccg&amp;oe=63FF1B9F"/>
+                                <div className="navbar_profilename">Zakir</div>
                             </div>
-
                         </div>
                     </Grid>
                         

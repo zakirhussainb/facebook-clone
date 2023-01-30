@@ -35,20 +35,19 @@
 .navbar_tabs.active{
     border-bottom: 3px solid #1B77F2;
 }
-
-.navbar_rightbar {
-    display: flex;
-}
-
 .navbar_righttab {
     display: flex;
+    margin-left: 40px;
 }
 
 .navbar_rightimg {
     margin-top: 10px;
     margin-right: 10px;
+    max-height: 40px;
+    max-width: 40px;
 }
 
 .navbar_profilename {
     margin-top: 20px;
+    font-weight: 600;
 }
